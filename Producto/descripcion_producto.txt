@@ -1,0 +1,11 @@
+40db-frontend.zip:
+Contiene el código fuente (estructura de carpetas) del frontend de la app.
+URL pública del repositorio: https://github.com/delll000/40db-frontend
+
+40db-backend.zip:
+Contiene el backend/API del proyecto (estructura de carpetas).
+URL pública del repositorio: https://github.com/JoaquinMelendez/40db-backend
+
+40db-IoT.zip:
+Contiene init donde se trabajará el código de IoT para ESP32 + Sensor de audio
+URL pública del repositorio: https://github.com/JoaquinMelendez/40db-IoT
